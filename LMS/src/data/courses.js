@@ -170,8 +170,8 @@ export const DOMAINS = [
           },
           {
             id: "dev-m33",
-            title: "Exercise 3 - Solution",
-            youtubeId: "2PWgbyL3ex8",
+            title: "CSS Responsive Layouts",
+            youtubeId: "x4u8FsiYTWw",
           },
           {
             id: "dev-m34",
@@ -196,7 +196,7 @@ export const DOMAINS = [
           {
             id: "dev-m38",
             title: "CSS Flexbox - Ultimate MasterClass",
-            youtubeId: "",
+            youtubeId: "K74l26pE4YA",
           },
           {
             id: "dev-m39",
@@ -348,68 +348,68 @@ export const DOMAINS = [
           },
           {
             id: "aiml-m3",
-            title: "What is Artificial Intelligence ",
-            youtubeId:"s-s9ilkMVj8",
+            title: "What is Artificial Intelligence",
+            youtubeId: "s-s9ilkMVj8",
           },
           {
             id: "aiml-m4",
-            title: " What is State Space Search ",
-            youtubeId:"E5jVBqe59EE",
+            title: "What is State Space Search",
+            youtubeId: "E5jVBqe59EE",
           },
           {
             id: "aiml-m5",
-            title: "  Uninformed Vs Informed Search in Artificial Intelligence with Example",
-            youtubeId:"gZpUcsB9TFc",
+            title: "Uninformed Vs Informed Search in Artificial Intelligence with Example",
+            youtubeId: "gZpUcsB9TFc",
           },
           {
             id: "aiml-m6",
-            title: "Informed vs Uninformed vs Adversarial Search With Examples ",
-            youtubeId:"YatDNnaJ1TU",
+            title: "Informed vs Uninformed vs Adversarial Search With Examples",
+            youtubeId: "YatDNnaJ1TU",
           },
           {
             id: "aiml-m7",
-            title: "Breadth First Search (BFS) with example ",
-            youtubeId:"qul0f79gxGs",
+            title: "Breadth First Search (BFS) with example",
+            youtubeId: "qul0f79gxGs",
           },
           {
             id: "aiml-m8",
-            title: "Depth First Search (DFS) with example ",
-            youtubeId:"f8luGFRtshY",
+            title: "Depth First Search (DFS) with example",
+            youtubeId: "f8luGFRtshY",
           },
           {
             id: "aiml-m9",
-            title: "Time & Space Complexity of BFS and DFS ",
-            youtubeId:"_Ky9w2zF8JM",
+            title: "Time & Space Complexity of BFS and DFS",
+            youtubeId: "bIA8HEEU1D8",
           },
           {
             id: "aiml-m10",
-            title: " Bidirectional Search Algorithm in Artificial Intelligence in Hindi with Real Life Examples",
+            title: "Bidirectional Search Algorithm in Artificial Intelligence",
             youtubeId: "rEema9uQ02c",
           },
           {
             id: "aiml-m11",
-            title: " Best First Search Algorithm ",
-            youtubeId:"7ffDUDjwz5E",
+            title: "Best First Search Algorithm",
+            youtubeId: "7ffDUDjwz5E",
           },
           {
             id: "aiml-m12",
-            title: "Depth-Limited Search (DLS) Explained ",
-            youtubeId:"_Ky9w2zF8JM",
+            title: "Depth-Limited Search (DLS) Explained",
+            youtubeId: "_Ky9w2zF8JM",
           },
           {
             id: "aiml-m13",
-            title: " Iterative Deepening Depth-First Search (IDDFS)",
-            youtubeId:"0-vP781wblQ",
+            title: "Iterative Deepening Depth-First Search (IDDFS)",
+            youtubeId: "0-vP781wblQ",
           },
           {
             id: "aiml-m14",
-            title: " 8-Puzzle Problem in Artificial Intelligence without Heuristic",
-            youtubeId:"_CrEYrcImv0",
+            title: "8-Puzzle Problem in Artificial Intelligence without Heuristic",
+            youtubeId: "_CrEYrcImv0",
           },
           {
             id: "aiml-m15",
-            title: "  What is Heuristic in AI ",
-            youtubeId:"5F9YzkpnaRw",
+            title: "What is Heuristic in AI",
+            youtubeId: "5F9YzkpnaRw",
           }
         ]
       },
@@ -572,12 +572,12 @@ export const DOMAINS = [
           },
           {
             id: "ds-m4",
-            title: "Patterns",
-            youtubeId: "r-uOLxNrNk8",
+            title: "Patterns & Nesting Concepts",
+            youtubeId: "7k_Z1W8m-K0",
           },
           {
             id: "ds-m5",
-            title: "Functions",
+            title: "Functions & Scope",
             youtubeId: "r-uOLxNrNk8",
           },
           {
@@ -592,7 +592,7 @@ export const DOMAINS = [
           },
           {
             id: "ds-m8",
-            title: "Array Data Structure - Part1 ",
+            title: "Array Data Structure - Part 1",
             youtubeId: "8wmn7k1TTcI",
           },
           {
