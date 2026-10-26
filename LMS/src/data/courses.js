@@ -272,23 +272,6 @@ export const DOMAINS = [
         modules: [
           {
             id: "aiml-m1",
-            title: "Supervised vs Unsupervised Learning",
-            youtubeId: "aircAruvnKk",
-          }
-        ]
-      }
-    ]
-  },
-  {
-    id: "aiml",
-    title: "AI & Machine Learning",
-    courses: [
-      {
-        id: "ml-basics",
-        title: "Machine Learning Foundations",
-        modules: [
-          {
-            id: "aiml-m1",
             title: "Artificial Intelligence Syllabus Discussion and Analysis for NTA UGC",
             youtubeId: "uB3i-qV6VdM",
           },
