@@ -211,7 +211,7 @@ export default function App() {
                 required
                 value={inputName}
                 onChange={(e) => setInputName(e.target.value)}
-                placeholder="e.g. Manikanth"
+                placeholder="e.g. Raam"
                 className="w-full rounded-xl border border-slate-800 bg-slate-950 p-3 text-sm text-slate-100 placeholder-slate-600 focus:border-indigo-500 focus:outline-none"
               />
             </div>
