@@ -259,10 +259,16 @@ export const DOMAINS = [
             youtubeId: "tSzDHVWG1hI",
           }
         ]
-      },
+      }
+    ]
+  },
+  {
+    id: "system-design-domain",
+    title: "System Design & Distributed Systems",
+    courses: [
       {
         id: "system-design-pro",
-        title: "System Design & Distributed Systems Architecture",
+        title: "System Design Architecture MasterClass",
         modules: [
           {
             id: "sd-m1",
@@ -412,10 +418,16 @@ export const DOMAINS = [
             youtubeId: "5F9YzkpnaRw",
           }
         ]
-      },
+      }
+    ]
+  },
+  {
+    id: "prompt-eng-domain",
+    title: "Prompt Engineering & LLM Integration",
+    courses: [
       {
         id: "prompt-eng-llm",
-        title: "Prompt Engineering & LLM Integration",
+        title: "Generative AI & LLM Application Development",
         modules: [
           {
             id: "pe-m1",
@@ -478,10 +490,16 @@ export const DOMAINS = [
             duration: "40m"
           }
         ]
-      },
+      }
+    ]
+  },
+  {
+    id: "cv-domain",
+    title: "Deep Learning & Computer Vision",
+    courses: [
       {
         id: "dl-computer-vision",
-        title: "Deep Learning & Computer Vision",
+        title: "Neural Networks & Vision AI Engineering",
         modules: [
           {
             id: "cv-m1",
