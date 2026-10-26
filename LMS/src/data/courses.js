@@ -405,5 +405,204 @@ export const DOMAINS = [
         ]
       }
     ]
-  }
+  },
+  {
+    id: "system-design-pro",
+    title: "System Design & Distributed Systems Architecture",
+    modules: [
+      {
+        id: "sd-m1",
+        title: "Introduction to System Design & Architectural Patterns",
+        youtubeId: "m8Icp_Cid5o",
+        duration: "45m"
+      },
+      {
+        id: "sd-m2",
+        title: "Vertical vs Horizontal Scaling & Load Balancing",
+        youtubeId: "K0Ta65OqQkY",
+        duration: "35m"
+      },
+      {
+        id: "sd-m3",
+        title: "Database Scaling: Sharding, Replication & Partitioning",
+        youtubeId: "5faMjKuB9bc",
+        duration: "40m"
+      },
+      {
+        id: "sd-m4",
+        title: "Caching Strategies: Redis, Memcached & CDN Integration",
+        youtubeId: "U3RkDLt17qM",
+        duration: "30m"
+      },
+      {
+        id: "sd-m5",
+        title: "Message Queues & Event-Driven Architecture (Kafka/RabbitMQ)",
+        youtubeId: "oGJg1RROPWc",
+        duration: "50m"
+      },
+      {
+        id: "sd-m6",
+        title: "API Design: REST vs GraphQL vs gRPC Protocols",
+        youtubeId: "1v_4dL8lNQ8",
+        duration: "35m"
+      },
+      {
+        id: "sd-m7",
+        title: "Rate Limiting & API Gateways Algorithms (Token Bucket)",
+        youtubeId: "FU4WlwfS3G0",
+        duration: "25m"
+      },
+      {
+        id: "sd-m8",
+        title: "CAP Theorem, PACELC & Consistency Models",
+        youtubeId: "k-Yaq8AHlBU",
+        duration: "30m"
+      },
+      {
+        id: "sd-m9",
+        title: "Designing a URL Shortener (TinyURL) End-to-End",
+        youtubeId: "fMZMmGyZh7M",
+        duration: "45m"
+      },
+      {
+        id: "sd-m10",
+        title: "Designing a Real-Time Chat System (WhatsApp/Slack)",
+        youtubeId: "vvhC64hQutM",
+        duration: "50m"
+      }
+    ]
+  },
+  {
+    id: "prompt-eng-llm",
+    title: "Prompt Engineering & LLM Integration",
+    modules: [
+      {
+        id: "pe-m1",
+        title: "Fundamentals of LLMs & Prompt Engineering Core Principles",
+        youtubeId: "_ZvnD73u40o",
+        duration: "30m"
+      },
+      {
+        id: "pe-m2",
+        title: "Advanced Prompting Techniques (Few-Shot, Chain-of-Thought)",
+        youtubeId: "dOxUroR57xs",
+        duration: "35m"
+      },
+      {
+        id: "pe-m3",
+        title: "System Prompts, Context Windows & Structured Output Parsing",
+        youtubeId: "jC4v5AS4RIM",
+        duration: "40m"
+      },
+      {
+        id: "pe-m4",
+        title: "Building Apps with Google Gemini API & Node.js/React",
+        youtubeId: "V_0aN2v-5kE",
+        duration: "45m"
+      },
+      {
+        id: "pe-m5",
+        title: "Function Calling & Tool Use with LLMs",
+        youtubeId: "0b-jE-vB2Xo",
+        duration: "35m"
+      },
+      {
+        id: "pe-m6",
+        title: "Retrieval-Augmented Generation (RAG) Fundamentals",
+        youtubeId: "T-D1OfcDW1M",
+        duration: "50m"
+      },
+      {
+        id: "pe-m7",
+        title: "Vector Embeddings & Vector Databases (ChromaDB, Pinecone)",
+        youtubeId: "yjFCvOIz_X8",
+        duration: "40m"
+      },
+      {
+        id: "pe-m8",
+        title: "Building Autonomous AI Agents with LangChain & LlamaIndex",
+        youtubeId: "Ayn8u31Y7R8",
+        duration: "45m"
+      },
+      {
+        id: "pe-m9",
+        title: "LLM Security: Prompt Injection, Guardrails & Mitigations",
+        youtubeId: "ndUa-G4Hk8g",
+        duration: "30m"
+      },
+      {
+        id: "pe-m10",
+        title: "Deploying & Evaluating Production AI Applications",
+        youtubeId: "k-fV0p0g8wY",
+        duration: "40m"
+      }
+    ]
+  },
+  {
+    id: "dl-computer-vision",
+    title: "Deep Learning & Computer Vision",
+    modules: [
+      {
+        id: "cv-m1",
+        title: "Introduction to Deep Learning & Neural Network Architecture",
+        youtubeId: "aircAruvnKk",
+        duration: "35m"
+      },
+      {
+        id: "cv-m2",
+        title: "Activation Functions, Loss Functions & Backpropagation",
+        youtubeId: "IHZwWFHWa-w",
+        duration: "40m"
+      },
+      {
+        id: "cv-m3",
+        title: "Image Processing Fundamentals with OpenCV & Python",
+        youtubeId: "oXlwWbU8l2s",
+        duration: "45m"
+      },
+      {
+        id: "cv-m4",
+        title: "Convolutional Neural Networks (CNNs) Deep Dive",
+        youtubeId: "YRhxdVk_sIs",
+        duration: "50m"
+      },
+      {
+        id: "cv-m5",
+        title: "Transfer Learning & Fine-Tuning Pretrained Models (ResNet, VGG)",
+        youtubeId: "mTY16Lz1n6U",
+        duration: "40m"
+      },
+      {
+        id: "cv-m6",
+        title: "Object Detection Algorithms: YOLO (You Only Look Once) & R-CNN",
+        youtubeId: "Gq9u3yvN1gQ",
+        duration: "45m"
+      },
+      {
+        id: "cv-m7",
+        title: "Image Segmentation with U-Net & Mask R-CNN",
+        youtubeId: "AZr64OxshLo",
+        duration: "35m"
+      },
+      {
+        id: "cv-m8",
+        title: "Generative Adversarial Networks (GANs) & Image Generation",
+        youtubeId: "8L11aMN5KY8",
+        duration: "40m"
+      },
+      {
+        id: "cv-m9",
+        title: "Vision Transformers (ViT) & Multimodal Vision-Language Models",
+        youtubeId: "tr56oTff460",
+        duration: "45m"
+      },
+      {
+        id: "cv-m10",
+        title: "Deploying Computer Vision Models to Edge Devices & Cloud APIs",
+        youtubeId: "b85m5mQfS5k",
+        duration: "50m"
+      }
+    ]
+  },
+  
 ];
