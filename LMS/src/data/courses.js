@@ -1,10 +1,3 @@
-The blank screen error happens because the last three items in your `DOMAINS` array (`system-design-pro`, `prompt-eng-llm`, and `dl-computer-vision`) were pasted directly as **Domain objects** without a `courses` array wrapping them.
-
-`App.jsx` expects every item inside `DOMAINS` to have a `courses` array property (e.g., `domain.courses.length`), so when React tried to read `.courses` on those last three items, it threw a breaking runtime crash (`TypeError: Cannot read properties of undefined (reading 'courses')`).
-
-Here is the fully fixed, syntactically valid `src/courses.js` file:
-
-```javascript
 // src/courses.js
 export const DOMAINS = [
   {
@@ -612,4 +605,3 @@ export const DOMAINS = [
     ]
   }
 ];
-
